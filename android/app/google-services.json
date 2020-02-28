@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054559021652",
+    "firebase_url": "https://investme-29353.firebaseio.com",
+    "project_id": "investme-29353",
+    "storage_bucket": "investme-29353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054559021652:android:bcc89c8d2c85e6c0111bc1",
+        "android_client_info": {
+          "package_name": "com.investme.investme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054559021652-k8u4e6o93b2fanbq9k65npj0jf476rl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNsj8CCjt1sV4w00oEnpr5xtY2g3Q0iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054559021652-k8u4e6o93b2fanbq9k65npj0jf476rl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054559021652-3c690741m3k9ih6qc02spg92gfmgmsfe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

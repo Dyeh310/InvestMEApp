@@ -1,0 +1,50 @@
+name: flutter_app
+description: A cross-platform mobile application using Flutter in Dart to demonstrate to users the value of saving money and investing.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  english_words: ^3.1.0
+  intl: ^0.15.8
+  flutter_swiper: ^1.1.6
+  cloud_firestore: ^0.12.10+2
+  async: ^2.2.0
+  google_sign_in:
+  firebase_analytics: ^5.0.2
+  table_calendar:
+  provider: 
+  date_util: ^0.1.4
+  flutter_local_notifications:
+  auto_size_text:
+  charts_flutter: ^0.8.1
+  rflutter_alert: ^1.0.2
+  random_string: ^1.1.0
+  geolocator: ^5.1.5
+  http: ^0.12.0+2
+  flutter_spinkit: ^4.0.0
+
+
+  #iOS error? Check on MacOS
+  firebase_core: ^0.4.0+9
+  firebase_auth: ^0.14.0+5
+
+dev_dependencies:
+  build_runner: ^1.5.2
+  build_test: ^0.10.8
+  build_web_compilers: ^2.1.1
+  mockito: ^4.1.0
+  flutter_driver:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background_login.png
